@@ -1,4 +1,14 @@
-import fs from "fs"
+/*
+	NOTE: Uncomment the code to see the result per module
+*/
 
-fs.writeFileSync("file.txt", "file")
-console.log(123);
+/*
+	// ---SIMPLE CLASS--- //
+	import Hero from "./simple-class"
+	const hero = new Hero()
+	console.info(hero.getName())
+	console.log(hero.popularity) 
+*/
+
+
+
